@@ -16,6 +16,8 @@ Output: The script will display the calorie count if the fruit is found.
 Example
 Item: apple
 Calories: 130
+```
+![Calories Output](https://github.com/wanji-cloudk/calories-counter/blob/8b0dee1fec44afdd84cfeddb7d7ea3ec11bbebd9/calories.py.png)
 
 #### Run Locally
 clone the project
